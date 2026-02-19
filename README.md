@@ -1,4 +1,4 @@
-# Hi, I'm Dawid Piaskowski 👋
+# Hi, I'm Dawid 👋
 
 **Product guy, serial entrepreneur based in Berlin, Germany.**
 
