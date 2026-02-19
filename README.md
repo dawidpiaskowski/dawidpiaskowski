@@ -1,8 +1,8 @@
 # Hi, I'm Dawid Piaskowski 👋
 
-**Product & AI leader based in Berlin, Germany.**
+**Product guy, serial entrepreneur based in Berlin, Germany.**
 
-I build products at the intersection of AI and real-world workflows — from LLM integrations and automation pipelines to product strategy and team leadership. Currently exploring the frontier of AI agents, local model deployment, and intelligent tooling.
+I build products at the intersection of AI and real-world workflows — from LLM integrations and automation pipelines to product strategy.
 
 ---
 
@@ -19,7 +19,7 @@ I build products at the intersection of AI and real-world workflows — from LLM
 
 ## 🤖 What I'm working on
 
-- Building AI-powered workflows and automation with **n8n** and local LLMs
+- Building AI-powered workflows and automation with **n8n** and **Claude** and local LLMs
 - Developing intelligent agents and skills for the **Claw** platform
 - Exploring **self-hosted AI** infrastructure with Ollama
 
